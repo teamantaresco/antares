@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages stfu
+## Welcome to GitHub Pages siak gay as fuck
 
 You can use the [editor on GitHub](https://github.com/teamantaresco/antares/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
