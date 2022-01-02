@@ -113,6 +113,10 @@ section
     transform: translateY(130px);
 }
 
+.smooth-transition {
+    scroll-behavior: smooth;
+  }
+
 body2{
     margin: 0;
     padding: 0;
@@ -236,4 +240,13 @@ body2{
     100%{
         background-position: 2000px 0;
     }
+}
+
+#feed
+{
+    position: absolute;
+    color: #fff;
+    white-space: nowrap;
+    font-size: 7.5vw;
+    z-index: 9;
 }

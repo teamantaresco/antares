@@ -4,7 +4,7 @@
         <title>Team Antares Official</title>
         <link rel="stylesheet" type="text/css" href="style2.css">
     </head>
-    <body>
+    <body onload="myFunction()">
         <header>
             <a href="#" class="logo">Logo</a>
                 <ul>
@@ -17,7 +17,7 @@
         </header>
         <section>
             <h2 id="text">Welcome to the family!</h2>
-            <a href="./feed.html" id="btn">ANTARES FEED</a>
+            <a href="#feed" id="btn" class="smooth_transition">ANTARES FEED</a>
         </section>
     </body>
     <body2>
@@ -74,4 +74,15 @@
             <h1>Meet Antares' Family</h1>
         </div>
     </body3>
+    <body4>
+        <section>
+            <h2 id="feed">Feed</h2>
+        </section>
+    </body4>
+    <script>
+        function myFunction() {
+          document.documentElement.style.scrollBehavior = "smooth";
+        }
+    </script>
+    
 </html>
