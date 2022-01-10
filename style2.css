@@ -73,8 +73,9 @@ section
     position: absolute;
     color: #fff;
     white-space: nowrap;
-    font-size: 7.5vw;
+    font-size: 9vw;
     z-index: 9;
+    float: left;
 }
 
 #btn 
